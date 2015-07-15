@@ -10,4 +10,8 @@ describe Number do
     it { expect(Number.two).to eq(2) }
   end
 
+  describe '.three' do
+    it { expect(Number.three).to eq(3) }
+  end
+
 end

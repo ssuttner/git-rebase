@@ -8,4 +8,8 @@ module Number
     1 + 1
   end
 
+  def self.three
+    1 + 1 + 1
+  end
+
 end
